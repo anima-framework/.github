@@ -1,4 +1,4 @@
-## Anima framework
+## Anima
 
 > Stop reinventing the wheel — use Anima.
 
