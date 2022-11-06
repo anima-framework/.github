@@ -1,4 +1,4 @@
-## Anima
+# Anima
 
 > Stop reinventing the wheel — use Anima.
 
